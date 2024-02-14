@@ -1,6 +1,6 @@
 import "./App.css";
 import SmoothScroll from "./components/SmoothScroll";
-import Lol from "./components/lol";
+import Lol from "./components/Lol";
 import Second from "./components/Second";
 
 function App() {
