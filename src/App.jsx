@@ -3,6 +3,7 @@ import SmoothScroll from "./components/SmoothScroll";
 import Lol from "./components/Lol";
 import Second from "./components/Second";
 import Picture from "./components/Picture";
+import Splittext from "./components/Splittext";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <Lol />
           <Second />
           <Picture />
+          <Splittext />
         </body>
       </html>
     </>

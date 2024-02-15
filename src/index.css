@@ -40,3 +40,10 @@ h1 {
 p {
   font-size: 24px;
 }
+.char {
+  transform: translateY(115px);
+  transition: transform 0.5s;
+}
+#my-text {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
