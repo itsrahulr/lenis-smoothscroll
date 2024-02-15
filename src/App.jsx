@@ -2,6 +2,7 @@ import "./App.css";
 import SmoothScroll from "./components/SmoothScroll";
 import Lol from "./components/Lol";
 import Second from "./components/Second";
+import Picture from "./components/Picture";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           <SmoothScroll />
           <Lol />
           <Second />
+          <Picture />
         </body>
       </html>
     </>
